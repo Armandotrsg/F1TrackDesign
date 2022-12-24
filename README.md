@@ -1,8 +1,23 @@
-# Formula 1 Track Design
-Re-design of 2 Formula 1's sections in 3 different tracks using a third degree polynomial equation to connect 2 points in a track and predict 10 possible skid-points and safely place the crowd's benches.
+# Re-design of Formula 1 Track Sections using Polynomial Equations
 
-## Developed by:
-- Armando Terrazas
+## Description
+
+This repository contains a Matlab implementation for the re-design of 2 sections of 3 different Formula 1 tracks, using a third degree polynomial equation to connect 2 points in each track and predict 10 possible skid-points. The aim of this project is to safely place the crowd's benches in areas of the track that are less prone to accidents.
+
+## Features
+
+- Re-design of 2 sections of 3 different Formula 1 tracks.
+- Use of third degree polynomial equations to connect 2 points in each track.
+- Prediction of 10 possible skid-points in each track section.
+- Implementation in Matlab.
+
+## Installation
+
+To run the code in this repository, you will need to have Matlab installed on your system. You can then clone the repository and run the `main.m` script in Matlab.
+
+## Contributors
+
+- [@Armandotrsg](https://github.com/Armandotrsg)
 - Samuel García
 - Isaac Ramírez
 - Javier Hernández
