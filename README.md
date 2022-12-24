@@ -13,7 +13,7 @@ This repository contains a Matlab implementation for the re-design of 2 sections
 
 ## Installation
 
-To run the code in this repository, you will need to have Matlab installed on your system. You can then clone the repository and run the `main.m` script in Matlab.
+To run the code in this repository, you will need to have Matlab installed on your system. You can then clone the repository and run the live script [Pista_De_Carreras(1).mlx](./Pista_De_Carreras(1).mlx)
 
 ## Contributors
 
